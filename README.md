@@ -189,6 +189,7 @@ Founders consistently underinvest here. Evals are the AI equivalent of a test su
 - [Railway](https://railway.com/) - Deploy backends and databases without managing infrastructure.
 - [Fly.io](https://fly.io/) - Run containers close to users in multiple regions.
 - [Render](https://render.com/) - Managed services, cron jobs and Postgres with a generous starting tier.
+- [Prisma Compute](https://www.prisma.io/compute) - TypeScript app hosting that runs next to Prisma Postgres, with a preview and database for every branch.
 - [Cloudflare](https://www.cloudflare.com/developer-platform/) - Workers, D1, R2 and queues, with egress pricing that matters at scale.
 - [Supabase](https://supabase.com/) - Postgres with auth, storage and realtime included.
 - [Neon](https://neon.com/) - Serverless Postgres with database branching, which pairs well with per-PR environments.
